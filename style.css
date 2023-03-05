@@ -1,0 +1,23 @@
+.descricao-produto{
+    background-color: aquamarine;
+    
+}
+
+.descricao-produto span{
+    color: yellow;
+    border: yellow solid;
+    background-color: black;
+}
+
+.produtos{
+    margin: 30px;
+    
+    color: black;
+    background-color: red;
+}
+h2{
+    text-align: center;
+    border: double;
+    padding: 20px;
+    
+}
